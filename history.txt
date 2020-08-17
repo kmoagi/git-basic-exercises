@@ -1,0 +1,310 @@
+    1  ls
+    2  ls /data
+    3  ls /data bioinfo.course.data command_line_course galaxy lost+found refs
+    4  ls /lockdown
+    5  ls /
+    6  pwd
+    7  mkdir
+    8  pwd
+    9  mkdir Learning_bash
+   10  cd Learning_bash
+   11  Learning_bash$ mkdir Outer_directory 
+   12  mkdir Outer_directory
+   13  cd Outer_directory
+   14  mkdir Inner_directory
+   15  cd Inner_directory
+   16  cd Onale_skool
+   17  cd Pit_skool/
+   18  mkdir Learning_guy
+   19  ls
+   20  mkdir Learning_guy/
+   21  cd Learning_guy
+   22  mkdir Outer_dir
+   23  cd Outer_dir
+   24  mkdir Important_File
+   25  cd Important_file
+   26  cd
+   27  cd Learning_guy/
+   28  cd ..
+   29  cd ..
+   30  pwd
+   31  Learning_guy
+   32  Learning_guy mkdir Outer_dir
+   33  mkdir Learning_guy
+   34  cd Learning_guy
+   35  cd Learning_guy /Outer_dir
+   36  pwd
+   37  cd
+   38  pwd
+   39  cd /Users?beaversmoagi0707/Learning_guy/ Outer_dir 
+   40  cd Learning_guy
+   41  cd
+   42  pwd
+   43  cd Learning_guy/ Outer_dir
+   44  cd Learning_guy
+   45  cd Learning_guy/ Outer_dir
+   46  git commit -m "
+   47  git commit -m
+   48  git-basic-exercises
+   49  git_basic_exercise
+   50  mkdir git-basic exercise
+   51  cd git
+   52  cd git-basic-exercise
+   53  git add git-basic-exercise
+   54  pwd
+   55  git-basic-exercise
+   56  git add git_basic_exercise
+   57  git add git_basic_exercise
+   58  ls
+   59  pwd
+   60  mkdir git-basic-exercise
+   61  cd git-basic-exercise
+   62  ls -a
+   63  git init
+   64  ls -a
+   65  git status
+   66  git log
+   67  git add readme.md
+   68  git add README.txt
+   69  git status
+   70  git commit -m
+   71  git status
+   72  ls
+   73  pwd
+   74  mkdir git-basic-exercise
+   75  cd git-basic-exercise
+   76  git add README.md
+   77  git status
+   78  git add README.md
+   79  cd README.md
+   80  git add README.md 
+   81  git status
+   82  pwd
+   83  ls
+   84  cd git-basic-exercise
+   85  touch README.MD
+   86  ls -a
+   87  git status
+   88  git add README.md
+   89  git status
+   90  git reset HEAD <README.md>
+   91  git reset HEAD README.md
+   92  git satus
+   93  git status
+   94  pwd
+   95  git status
+   96  git commit -m
+   97  git satus
+   98  git status
+   99  git commit -m "initial commit"
+  100  git log
+  101  pwd
+  102  git reset git-basic-exercise
+  103  git reset HEAD README.md
+  104  git status
+  105  git commit -m "initial commit"
+  106  git commit -a
+  107  git commit README.md
+  108  status
+  109  git status
+  110  git log
+  111  commit -m README.md
+  112  commit -m "README.md"
+  113  git reset HEAD <README.md>
+  114  git reset HEAD README.md
+  115  ls
+  116  pwd
+  117  cd git-basic-exercise
+  118  git status
+  119  git log
+  120  git commit -m "initial commit"
+  121  cd README.md
+  122  git config user.email "kabelomg@gmail.com"
+  123  git config user.name "kabelom"
+  124  git commit -m "initial commit"
+  125  git log
+  126  git status
+  127  pwd
+  128  git add README.md
+  129  git status
+  130  git commit -m "initial commit"
+  131  git log
+  132  ls
+  133  pwd
+  134  nano README.md
+  135  cd git-basic-exercise
+  136  nano README.md
+  137  git status
+  138  git add README.md
+  139  git status
+  140  git commit -m "initial commit"
+  141  git log
+  142  git status
+  143  git commit -m "initial commit"
+  144  git add README.md
+  145  git commit -m "initial commit"
+  146  status
+  147  git status
+  148  git log
+  149  git log
+  150  git commit -m
+  151  git log
+  152  cd git-basic-exercise
+  153  git status
+  154  ls
+  155  pwd
+  156  mkdir git-lesson
+  157  cd git-lesson
+  158  ls -a
+  159  git init
+  160  ls -a
+  161  git status
+  162  touch README.md
+  163  ls -a
+  164  git status
+  165  git log
+  166  git add README.md 
+  167  git status
+  168  git reset HEAD README.md
+  169  git status
+  170  git commit -m "initial commit"
+  171  git config --global user.email "you@example.com"
+  172  git config --global user.name "kabelom"
+  173  git config --global user.email "kabelomg@gmail.com"
+  174  git commit -m "initial commit"
+  175  git log
+  176  nano README.md
+  177  nano
+  178  nano README.md
+  179  git nano README.md
+  180  nano
+  181  winpty nano
+  182  choco install nano
+  183  cat README.md
+  184  git status
+  185  git commit -m "second commit"
+  186  git log
+  187  git commit -m
+  188  git commit -m "second commit"
+  189  git status
+  190  pwd
+  191  git status
+  192  commit -m "second commit"
+  193  git commit -m "second commit"
+  194  gi status
+  195  git status
+  196  cat README.md
+  197  git status
+  198  git commit -a
+  199  ls -a
+  200  git commit "second commit"
+  201  nano README.md
+  202  sudo apt-get install nano
+  203  sudo apt-get update
+  204  sudo apt-get install nano
+  205  git config –global core.editor “winpty nano”
+  206  nano README.md
+  207   git config –global core.editor “winpty nano”
+  208  nano README.md
+  209  sudo apt-get install nano
+  210  tar -xvJf
+  211  ./configure --enable-utf8 --enable-nanorc
+  212  sudo make
+  213  sudo /usr/local/bin/nano
+  214  git chechout master
+  215  sudo apt-get install nano
+  216  git pull
+  217  git checkout hello
+  218  cd git-lesson
+  219  git checkout master
+  220  git pull
+  221  git checkout -b hello
+  222  mkdir Outer_directory
+  223  rmdir Outer_directory
+  224  git add Outer_file
+  225  pwd
+  226  git add "Outer_file"
+  227  git add.
+  228  cd git-lesson
+  229  git add File
+  230  git status
+  231  mkdir Outer_file
+  232  git commit -m "Outer_file"
+  233  git commit -m
+  234  ls -a
+  235  pwd
+  236  git push origin hello
+  237  git push origin master
+  238  git push hello master
+  239  git push katas 1 hello
+  240  git push katas-1 hello
+  241  git push katas1 hello
+  242  git push kmoagi hello
+  243  git remote add origin https://github.com/kmoagi/katas-1.git
+  244  git push -u origin master
+  245  git status
+  246  git checkout master
+  247  git pull
+  248  git checkout -b even_or_odd
+  249  function hello("kabelo");
+  250  hello("kabelo")
+  251    git branch --set-upstream-to=origin/<branch> master
+  252  ls
+  253  pwd
+  254  kabelo-Moagi-288-git-basic-exerscise
+  255  User/kabelo-Moagi-288-git-basic-exerscise
+  256  User/git-lesson
+  257  cd git-lesson
+  258  pwd
+  259  ..
+  260  /
+  261  /git-lesson
+  262  /..
+  263  ..
+  264  ls-a
+  265  ls -a
+  266  ../
+  267  pwd
+  268  pwd
+  269  mkdir git-basic-exercises
+  270  pwd
+  271  cd git-basic-exercise
+  272  ls
+  273  ls
+  274  pwd
+  275  mkdir git-basic-exercise
+  276  cd git-basic-exercise
+  277  ls
+  278  ls -a
+  279  ls /data
+  280  ls /etc/perl
+  281  cd /pwd
+  282  git init
+  283  git status
+  284  touch README.md
+  285  ls -a
+  286  git status
+  287  git log
+  288  git add README.md
+  289  git status
+  290  git rm README.md
+  291  git status
+  292  git git
+  293  git commit -m "initial commit"
+  294  nano README.md
+  295  cat README.md
+  296  git status
+  297  git log
+  298  gut Checkout master
+  299  git checkout master
+  300  git checkout -b milkshake-flavours
+  301  git branch
+  302  git checkout milkshake-flavours
+  303  git branch
+  304  chockout master
+  305  git checkout matser
+  306  git checkout master
+  307  git checkout -b history
+  308  git log
+  309  git add history.txt
+  310  history > history.txt
